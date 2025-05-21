@@ -11,4 +11,4 @@ for numero in n:
     if numero % 2 != 0:
         numeros_sem_pares.append(numero)
 
-print
+printgi
